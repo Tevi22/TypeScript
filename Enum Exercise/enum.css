@@ -1,0 +1,72 @@
+.navbar-inverse {
+    background-color:#005580;
+   
+  }
+  body{
+    background-color: rgba(0,200,200,0.1);
+  }
+  #mobilecart{
+    color: white
+  }
+  #home{
+    color: white;
+  }
+  #cart{
+    color:white;padding-left: 123rem;
+  }
+  #cartsymbol{
+    color: white;
+  }
+  #login{
+    color: white;
+  }
+  #container{
+    margin-top:25%; display: flex;flex-direction: row;
+  }
+  #card{
+    height: 330px;width:20rem;border: 1px solid rgba(0, 0, 0, 0.173);
+    box-shadow: 5px 5px 5px rgba(30,40,50,0.5);background-color:white;
+    margin-left:60px;
+  }
+#imgtop{
+    padding-left: 30px;padding-top: 10px;
+}
+#cardbody{
+    text-align: left;padding-left: 10px;
+}
+#cardtitle{
+    color: blue;font-weight: bold;
+}
+#cardtext{
+    color: brown;
+}
+#card1{
+    padding-top:10px;margin-left:60px; height:330px;
+     width: 408px;box-shadow: 5px 5px 5px rgba(30,40,50,0.5);
+     border: 1px solid  rgba(0, 0, 0, 0.173);
+     background-color: white ;
+}
+#img1, #img2, #img3{
+    cursor: pointer;padding-left: 30px; 
+}
+#cardbody1{
+    padding-left: 10px; font-weight: 400;
+}
+#cardtext1{
+    padding-left: 20px;
+}
+#pinktext ,#silvertext{
+    padding-left: 50px;
+}
+#dollar1{
+    padding-left: 20px;
+}
+#dollar2{
+    padding-left: 100px;
+}
+#dollar3{
+    padding-left: 80px;
+}
+#backhome{
+    padding-left: 20px;
+}
